@@ -1,7 +1,7 @@
 # Getting and Cleaning Data
 ## Course Project
 One of the most exciting areas in all of data science right now is wearable computing. Companies like Fitbit, Nike, and Jawbone Up are racing to develop the most advanced algorithms to attract new users. The data linked to the course website was collected from the accelerometers and gyroscope from the Samsung Galaxy S smartphone, and was made available to download through the following link:
-`https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip`
+https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 The goal of the course project is to prepare tidy data that can be used for later analysis.
 To achieve this, it was required to create a script to collect, work with and clean a dataset. To run the script, just type `run_analysis()`
 
@@ -37,7 +37,7 @@ To run the script, just type `run_analysis()` after loading the script. The func
 * 8/10. Spliting data by activity and subject ... 
 * 9/10. Calculating means ... 
 * 10/10. DATASET 2 CREATED
-***OPERATION COMPLETE***
+OPERATION COMPLETE
    2 datasets created: 
    'DS_all_meanstd' 
    'DS_tidymeans'
@@ -57,4 +57,4 @@ Features.xmind | An xMind (https://www.xmind.net) mind map used to understand th
 DS_tidymeans.csv | The tidy dataset requested
 UCI HAR Dataset | (Directory) The raw data after unziping.
 
-THANKS FOR YOUR ATTENTION. CARLOS ARANA MATUS
+### THANKS FOR YOUR ATTENTION. CARLOS ARANA MATUS

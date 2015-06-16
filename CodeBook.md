@@ -8,7 +8,7 @@ The run_analysis() function, explained in the README.md file included in the rep
 Each dataset contains 88 columns, each column defined as follows:
 
 Num | Name | Description
--- | ------------------------------------------- | ----------------------------------------------------
+--- | ------------------------------------------- | ----------------------------------------------------
 1 | subject | The subject who performed the activity for each window sample
 2 | activity | Activity performed by the subject at the moment the signal was captured
 3 | tBodyAcc-mean()-X | (Time domain Signal). Body acceleration signal, derivated by applying an additional low pass butterworth filter with a corner frequency of 30Hz to the tAcc value. Mean estimated from the signals on the 'X' axis.
