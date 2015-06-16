@@ -7,7 +7,7 @@ The run_analysis() function, explained in the README.md file included in the rep
 
 Each dataset contains 88 columns, each column defined as follows:
 
-# | Column name | Description
+Num. | Column name | Description
 -- | ------------------------------------------- | ----------------------------------------------------
 1 | subject | The subject who performed the activity for each window sample
 2 | activity | Activity performed by the subject at the moment the signal was captured
